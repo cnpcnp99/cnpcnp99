@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 주니어 개발자 JJ입니다!
 
 <!--
 **cnpcnp99/cnpcnp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
